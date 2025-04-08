@@ -1,0 +1,8 @@
+Flask==2.2.2
+werkzeug==2.2.2
+gunicorn==20.1.0
+python-telegram-bot==20.3
+pytz
+tzlocal
+apscheduler
+aiohttp==3.8.4
